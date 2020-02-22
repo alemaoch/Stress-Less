@@ -93,7 +93,6 @@ public class AddAssignmentsActivity extends AppCompatActivity {
                         stressLessRepository.insertAssignment(addAssignment1);
 
                         addAssignment.dismiss();
-                        //binding.btnSave.setVisibility(View.VISIBLE);
 
                         LayoutInflater factory = LayoutInflater.from(mContext);
                         final View customDialog = factory.inflate(R.layout.saved_dialog_box, null);
