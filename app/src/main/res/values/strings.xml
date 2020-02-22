@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stress Less</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="login"><u>Login</u></string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+</resources>
